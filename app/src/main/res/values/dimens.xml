@@ -1,0 +1,21 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+
+    <dimen name="h1_font_size">22sp</dimen>
+    <dimen name="h2_font_size">18sp</dimen>
+    <dimen name="h3_font_size">15sp</dimen>
+    <dimen name="h4_font_size">12sp</dimen>
+    <dimen name="h5_font_size">10sp</dimen>
+
+    <dimen name="component_margin_xl">64dp</dimen>
+    <dimen name="component_margin_l">32dp</dimen>
+    <dimen name="component_margin_mid">16dp</dimen>
+    <dimen name="component_margin">8dp</dimen>
+    <dimen name="component_margin_sm">4dp</dimen>
+
+    <dimen name="card_corner_radius">15dp</dimen>
+</resources>

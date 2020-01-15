@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">企鹅日记</string>
+    <string name="note_activity_title">编辑日记</string>
+    <string name="action_settings">Settings</string>
+</resources>
